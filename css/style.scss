@@ -119,7 +119,7 @@ body{
 	// questions
 	.questions{
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
 
 		// grid-template-rows:repeat(3, 1fr);
 		.question{
@@ -183,7 +183,7 @@ body{
 		}
 		.features{
 			display: grid;
-			grid-template-columns: repeat(auto-fit, minmax(450px, 1fr));
+			grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
 
 			.feature{
 				font-weight: 500;
